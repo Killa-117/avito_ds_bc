@@ -8,3 +8,6 @@
 
 Установка библиотек 
 pip install -r requirements.txt
+
+triplets.npy
+https://drive.google.com/file/d/16x8jVpleVPIGZDBpalZ5EERSRIZUxRGA/view
