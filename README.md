@@ -10,4 +10,4 @@
 pip install -r requirements.txt
 
 triplets.npy
-https://drive.google.com/file/d/16x8jVpleVPIGZDBpalZ5EERSRIZUxRGA/view
+https://drive.google.com/drive/folders/1dMv5Kts3RmdEoKtnc7g6CK1wMJVWvSD6?usp=drive_link
