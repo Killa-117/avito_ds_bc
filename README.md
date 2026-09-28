@@ -3,3 +3,6 @@
  Train - обучение модели
  Train_reranker - кросс энкодер
  Znswer - генерация финального answer.csv
+
+Установка библиотек 
+pip install -r requirements.txt
